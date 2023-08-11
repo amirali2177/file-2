@@ -98,6 +98,7 @@
 }
 .main .pic img{
     height: 300px;
+    border: 2px black solid;
 }
 .main .para{
     width: 100%;
